@@ -1,0 +1,8 @@
+﻿  GameObserver.cpp
+  Gomoku.cpp
+  GomokuSubject.cpp
+  ListOfMovesObserver.cpp
+  PlayersObserver.cpp
+  ScoreObserver.cpp
+  Generating Code...
+  Gomoku.vcxproj -> C:\Users\Derek\Documents\@\Coding\C++\Gomoku\x64\Debug\Gomoku.exe
